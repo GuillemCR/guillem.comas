@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">guillem.comas</string>
+    <string name="mes">Mes</string>
+    <string name="dia">Dia</string>
+    <string name="any">Any</string>
+    <string name="exp_mes">Exp. Febrer</string>
+    <string name="exp_dia">Exp. 27</string>
+    <string name="exp_any">Exp. 1996</string>
+    <string name="btn_mes">MES</string>
+    <string name="btn_avui">Avui</string>
+</resources>
